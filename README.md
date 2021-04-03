@@ -1,13 +1,12 @@
-# This is a Course marketplace.
+# This is a Course marketplace. Here all types of course are available.
 
-This project code. [Click Me, I am Live](https://dry-plateau-43600.herokuapp.com/)
+This project is live now. [Click Me](https://course-plaza.web.app/)
 
 ## Features
 * React Router
-* Mobile and Desktop full responsive
+* Mobile and Desktop responsive
 * React Bootstrap
-* Netlify Hosting
-* Google Map
+* Firebase Hosting
+* Heroku Hosting
 * Google, Facebook, Github Sign in methods
-* Email, Password Sign in
-* Date For Journey
+* Here New Course Upload Option

@@ -16,7 +16,9 @@ const Manage = () => {
         })
         .then(res => res.json())
         .then(result => {
-            console.log(result)
+            if (result) {
+                alert('Checkout done. Check Orders Tab');
+            }
         })
     }
     const handleEdit = () => {
